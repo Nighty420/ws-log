@@ -1,0 +1,58 @@
+{ 
+    "death":
+    {
+        "guild": 0,
+        "token": "token"
+    },
+    "logins":
+    {
+        "guild": 0,
+        "token": "token"
+    },
+    "disconnect":
+    {
+        "guild": 0,
+        "token": "token"
+    },
+    "wenmo":
+    {
+        "guild": 0,
+        "token": "token"
+    },
+    "blackmarket":
+    {
+        "guild": 0,
+        "token": "token"
+    },
+    "admin":
+    {
+        "guild": 0,
+        "token": "token"
+    },
+    "permission": 
+    {
+        "guild": 0,
+        "token": "token"
+    },
+    "cornerselling":
+    {
+        "guild": 0,
+        "token": "token"
+    },
+    "realestate":
+    {
+        "guild": 0,
+        "token": "token"
+    },
+    "mugshot":
+    {
+        "guild": 0,
+        "token": "token"
+    },
+    "jail":
+    {
+        "guild": 0,
+        "token": "token"
+    }
+}
+
